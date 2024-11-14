@@ -60,12 +60,12 @@ VALUES
 
 INSERT INTO KEHANG(MAKH, TANG) 
 VALUES 
-    ('KH101', '1'),
-    ('KH102', '1'),
-    ('KH103', '1'),
-    ('KH201', '2'),
-    ('KH202', '2'),
-    ('KH203', '2')
+	('KH101', '1'),
+	('KH102', '1'),
+	('KH103', '1'),
+	('KH201', '2'),
+	('KH202', '2'),
+	('KH203', '2')
 
 INSERT INTO HANGHOA(MAHH, TENHH, DVT, DGN, MAKH, MADM)
 VALUES
